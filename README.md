@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+🔭 Recent contributions ...
+
+- [CircleCI python-orb](https://github.com/CircleCI-Public/python-orb/pull/135): Added cache-key-override to improve caching configurations. [Issue #134](https://github.com/CircleCI-Public/python-orb/issues/134)
+- [chatterbox-vllm](https://github.com/randombk/chatterbox-vllm/pull/13): Fix Gradio bug and improve defaults
+- [ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize/pull/292): Add new --input-list CLI option to improve usability
+- [obsidian-auto-card-link](https://github.com/nekoshita/obsidian-auto-card-link/pull/81): Add local caching of images to this Obsidian plugin. [Issue #75](https://github.com/nekoshita/obsidian-auto-card-link/issues/75)
+- [uv](https://github.com/astral-sh/uv/pull/6921): Update Dockerfile docs to use bind mounts
+- [uv](https://github.com/astral-sh/uv/pull/8306): Participated in bugfix of a new Python index feature
+- [aiomqtt](https://github.com/empicano/aiomqtt/pull/3210): Improve FastAPI example in docs
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws/pull/26880): Fix Go code bug that would always show terraform changes as dirty
+
 <!--
 **odie5533/odie5533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
