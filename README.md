@@ -8,7 +8,7 @@
 - [obsidian-auto-card-link](https://github.com/nekoshita/obsidian-auto-card-link/pull/81): Add local caching of images to this Obsidian plugin. [Issue #75](https://github.com/nekoshita/obsidian-auto-card-link/issues/75)
 - [uv](https://github.com/astral-sh/uv/pull/6921): Update Dockerfile docs to use bind mounts
 - [uv](https://github.com/astral-sh/uv/pull/8306): Participated in bugfix of a new Python index feature
-- [aiomqtt](https://github.com/empicano/aiomqtt/pull/3210): Improve FastAPI example in docs
+- [aiomqtt](https://github.com/empicano/aiomqtt/pull/321): Improve FastAPI example in docs
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws/pull/26880): Fix Go code bug that would always show terraform changes as dirty
 
 <!--
